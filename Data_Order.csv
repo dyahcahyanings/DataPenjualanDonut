@@ -1,0 +1,66 @@
+datetime,Customer_No,Order_No,Order,Qty,Payment_Method,Purchase_Method
+01/03/2021 10:03:46,30110031,F4703,Doffle,2,Bank,Dine-in
+01/03/2021 10:03:46,30110031,F1937,Glazed Donut,4,Bank,Dine-in
+01/03/2021 10:03:46,30110031,F2360,Thin Donut,3,Bank,Dine-in
+01/03/2021 10:03:46,30110031,F6528,Donut Pizza,3,Bank,Dine-in
+01/03/2021 10:03:46,30110031,D6482,Brown Sugar Boba,2,Bank,Dine-in
+01/03/2021 10:45:13,30110452,F1937,Glazed Donut,4,Cash,Takeaway
+01/03/2021 10:45:13,30110452,F6528,Donut Pizza,2,Cash,Takeaway
+01/03/2021 10:45:13,30110452,D3852,Iced Americano,1,Cash,Takeaway
+01/03/2021 11:13:10,30111133,F4703,Doffle,3,E-Wallet,Takeaway
+01/03/2021 11:13:10,30111133,F1937,Glazed Donut,3,E-Wallet,Takeaway
+01/03/2021 11:13:10,30111133,D5671,Caramel Macchiato,1,E-Wallet,Takeaway
+01/03/2021 11:13:10,30111133,D6482,Brown Sugar Boba,1,E-Wallet,Takeaway
+01/03/2021 11:17:09,30111174,F1937,Glazed Donut,4,E-Wallet,Delivery
+01/03/2021 11:17:09,30111174,F2360,Thin Donut,5,E-Wallet,Delivery
+01/03/2021 11:17:09,30111174,F6528,Donut Pizza,3,E-Wallet,Delivery
+01/03/2021 11:32:11,30111325,F4703,Doffle,1,Cash,Dine-in
+01/03/2021 11:32:11,30111325,D3852,Iced Americano,1,Cash,Dine-in
+01/03/2021 11:43:10,30111436,F2360,Thin Donut,2,Bank,Takeaway
+01/03/2021 11:43:10,30111436,F6528,Donut Pizza,4,Bank,Takeaway
+02/03/2021 9:17:10,30209171,F1937,Glazed Donut,7,Bank,Takeaway
+02/03/2021 9:17:00,30209171,F2360,Thin Donut,5,Bank,Takeaway
+02/03/2021 9:48:01,30209482,F4703,Doffle,3,Bank,Takeaway
+02/03/2021 9:48:01,30209482,F1937,Glazed Donut,5,Bank,Takeaway
+02/03/2021 9:48:01,30209482,F2360,Thin Donut,4,Bank,Takeaway
+02/03/2021 9:48:01,30209482,D6482,Brown Sugar Boba,2,Bank,Takeaway
+02/03/2021 9:48:01,30209482,D5671,Caramel Macchiato,2,Bank,Takeaway
+02/03/2021 11:34:12,30211343,F4703,Doffle,3,E-Wallet,Delivery
+02/03/2021 11:34:12,30211343,F1937,Glazed Donut,2,E-Wallet,Delivery
+02/03/2021 11:34:12,30211343,F2360,Thin Donut,3,E-Wallet,Delivery
+02/03/2021 11:34:12,30211343,F6528,Donut Pizza,4,E-Wallet,Delivery
+02/03/2021 11:34:12,30211343,D3852,Iced Americano,3,E-Wallet,Delivery
+02/03/2021 11:34:12,30211343,D6482,Brown Sugar Boba,2,E-Wallet,Delivery
+02/03/2021 12:10:04,30212104,F1937,Glazed Donut,4,Cash,Takeaway
+02/03/2021 12:10:04,30212104,F6528,Donut Pizza,2,Cash,Takeaway
+02/03/2021 12:10:04,30212104,D3852,Iced Americano,1,Cash,Takeaway
+03/03/2021 10:11:12,30311001,F6528,Donut Pizza,3,Bank,Takeaway
+03/03/2021 10:11:12,30311001,F2360,Thin Donut,2,Bank,Takeaway
+03/03/2021 10:11:12,30311001,D5671,Caramel Macchiato,4,Bank,Takeaway
+03/03/2021 10:17:34,30310173,D3852,Iced Americano,4,E-Wallet,Delivery
+03/03/2021 10:17:34,30310173,D6482,Brown Sugar Boba,2,E-Wallet,Delivery
+03/03/2021 10:17:34,30310173,D5571,Caramel Macchiato,1,E-Wallet,Delivery
+04/03/2021 12:10:13,30412104,F1937,Glazed Donut,4,Cash,Delivery
+04/03/2021 12:10:13,30412104,D3852,Iced Americano,2,Cash,Delivery
+04/03/2021 12:10:13,30412104,D5671,Caramel Macchiato,3,Cash,Delivery
+04/03/2021 12:14:44,30412145,F4703,Doffle,3,E-Wallet,Dine-in
+04/03/2021 12:14:44,30412145,F1937,Glazed Donut,5,E-Wallet,Dine-in
+04/03/2021 12:14:44,30412145,D5671,Caramel Macchiato,3,E-Wallet,Dine-in
+04/03/2021 12:24:18,30412249,F6528,Donut Pizza,2,Cash,Takeaway
+04/03/2021 12:24:18,30412249,D3852,Iced Americano,1,Cash,Takeaway
+04/03/2021 12:24:18,30412249,F1937,Glazed Donut,5,Cash,Takeaway
+05/03/2021 10:13:45,30510135,F1937,Glazed Donut,4,Cash,Takeaway
+05/03/2021 10:13:45,30510135,F6528,Donut Pizza,2,Cash,Takeaway
+05/03/2021 10:13:45,30510135,D5571,Caramel Macchiato,1,Cash,Takeaway
+05/03/2021 10:20:11,30510202,D6482,Brown Sugar Boba,2,E-Wallet,Dine-in
+05/03/2021 10:20:11,30510202,D5671,Caramel Macchiato,2,E-Wallet,Dine-in
+05/03/2021 10:20:11,30510202,F1937,Glazed Donut,2,E-Wallet,Dine-in
+05/03/2021 10:23:18,30510237,F2360,Thin Donut,5,Bank,Delivery
+05/03/2021 10:23:18,30510237,F6528,Donut Pizza,3,Bank,Delivery
+05/03/2021 10:23:18,30510237,D3852,Iced Americano,1,Bank,Delivery
+05/03/2021 10:26:14,30510265,F2360,Thin Donut,2,E-Wallet,Delivery
+05/03/2021 10:26:14,30510265,F6528,Donut Pizza,1,E-Wallet,Delivery
+05/03/2021 10:26:14,30510265,D5671,Caramel Macchiato,3,E-Wallet,Delivery
+05/03/2021 10:29:17,30510296,F6528,Donut Pizza,4,Cash,Dine-in
+05/03/2021 10:29:17,30510296,D3852,Iced Americano,2,Cash,Dine-in
+05/03/2021 10:29:17,30510296,D6482,Brown Sugar Boba,2,Cash,Dine-in
